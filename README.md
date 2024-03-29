@@ -5,3 +5,5 @@ Creating websites that are simple to install, handle, and maintain is what it me
 
 This documentation will explain the testing methodology that helps you to audit any CMS based sites. 
 Additionally, this material offers a sneak peek at how we can stop hackers from infiltrating your website.
+
+![CMS](https://github.com/amalrajpc/Pentesing-CMS-Based-Sites/assets/102909507/823ee5ea-b097-4a09-afda-bc3862ed971e)
